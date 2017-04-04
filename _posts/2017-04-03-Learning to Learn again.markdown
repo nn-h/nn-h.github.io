@@ -1,7 +1,6 @@
 ---
 title: Learning to Learn again
 layout: post
-published: false
 ---
 
 It's been too long since I've used this blog to communicate anything.
